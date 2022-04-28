@@ -20,6 +20,7 @@ This project was developed with the following technologies:
 
 ## :computer: Project
 Developed by me, this simple project was made to train my knowledge in.
+<img align="center" src="https://github.com/antonio-moreira-prog/Login-Responsivo/blob/master/assets/img/2022-04-28%2010-19-11.gif?raw=true">
 
 
 ## :scroll: License

@@ -19,7 +19,8 @@ This project was developed with the following technologies:
 - SASS
 
 ## :computer: Project
-Developed by me, this simple project was made to train my knowledge in .
+Developed by me, this simple project was made to train my knowledge in.
+
 
 ## :scroll: License
 This project is under the MIT license. See the [LICENSE.md] file for more details.
